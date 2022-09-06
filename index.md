@@ -18,8 +18,8 @@ background-size: contain
 
 ## Presentations 2022
 
-
-* [2022-07](./2022_07_DH2022Japan/index.html): “Establishing parameters for stylometric authorship attribution of 19th-century Arabic books and periodicals”, together with Till Grallert @ DH2022, Japan [remote]
+* [2022-09](./2022_09_DOT2022/index.html): “Similarity-Based Research for Islamicate Digital Humanities” @ DOT2022, Berlin, Freie Universität Berlin, Panel: *Computational Contributions to the Social and Cultural Histories of the Islamicate World*, co-organized with Dr. Till Grallert.
+* [2022-07](./2022_07_DH2022Japan/index.html): “Establishing parameters for stylometric authorship attribution of 19th-century Arabic books and periodicals”, together with Dr. Till Grallert @ DH2022, Japan [remote]
 * [2022-04](./2022_04_Yale/index.html): “To DB or not to DB: LOD-Like Approach and Algorithmic Analysis” @ *DH Workshop, Yale University* [remote]
 * [2022-04](./2022_04_RomanIslam/index.html): “Made by People, Tied by People: Modeling Islamic Urban Networks from Biographical Data (ca. 600-1300 CE)” @ *Roman Islam: Urban Networks*
 

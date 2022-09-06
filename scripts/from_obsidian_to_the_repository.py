@@ -37,6 +37,7 @@ for f in files:
         with open(pathToPresentations + f, "r", encoding="utf8") as f1:
             data = f1.read().replace(presentation, "index")
             data = data.replace("style.css", "../style.css")
+            data = data.replace('<script src="remark-latest.min.js"></script>', '<script src="../remark-latest.min.js"></script>')
 
             with open(targetFolder + presentation + "/index.html", "w", encoding="utf8") as f9:
                 f9.write(data)

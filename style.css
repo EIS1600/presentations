@@ -1,6 +1,23 @@
+
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+
+//* 
+@font-face{
+  font-family: 'Droid Serif';
+  src: url('../fonts/DroidSerif.ttf');
+}
+@font-face{
+  font-family: 'Yanone Kaffeesatz';
+  src: url('../fonts/YanoneKaffeesatz-Regular.ttf');
+}
+@font-face{
+  font-family: 'Ubuntu Mono';
+  src: url('../fonts/UbuntuMono-Regular.ttf');
+}
+*//
 
 body { font-family: 'Baskerville', 'Droid Serif'; }
 h1, h2, h3 {

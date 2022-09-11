@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="main-svg"
+   width="1200"
+   height="600"
+   style=""
+   viewBox="0 0 1200 600"
+   version="1.1"
+   id="svg14819"
+   sodipodi:docname="0911Suyuti.TafsirJalalayn_ROLLING_D20220911T201319.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14821"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4534488"
+     inkscape:cx="736.86804"
+     inkscape:cy="309.26441"
+     inkscape:window-width="3008"
+     inkscape:window-height="1639"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14819" />
+  <rect
+     x="0"
+     y="0"
+     width="1200"
+     height="600"
+     style="fill: rgb(255, 255, 255); fill-opacity: 1;"
+     id="rect14033" />
+  <defs
+     id="defs-18b8c4">
+    <g
+       class="clips"
+       id="g14047">
+      <clipPath
+         id="clip18b8c4xyplot"
+         class="plotclip">
+        <rect
+           width="855"
+           height="531"
+           id="rect14035" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip18b8c4x">
+        <rect
+           x="337"
+           y="0"
+           width="855"
+           height="600"
+           id="rect14038" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip18b8c4y">
+        <rect
+           x="0"
+           y="28"
+           width="1200"
+           height="531"
+           id="rect14041" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip18b8c4xy">
+        <rect
+           x="337"
+           y="28"
+           width="855"
+           height="531"
+           id="rect14044" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g14049" />
+    <g
+       class="patterns"
+       id="g14051" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g14054" />
+  <g
+     class="layer-below"
+     id="g14060">
+    <g
+       class="imagelayer"
+       id="g14056" />
+    <g
+       class="shapelayer"
+       id="g14058" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g14780">
+    <g
+       class="subplot xy"
+       id="g14778">
+      <g
+         class="layer-subplot"
+         id="g14066">
+        <g
+           class="shapelayer"
+           id="g14062" />
+        <g
+           class="imagelayer"
+           id="g14064" />
+      </g>
+      <g
+         class="gridlayer"
+         id="g14116">
+        <g
+           class="x"
+           id="g14080">
+          <path
+             class="xgrid crisp"
+             transform="translate(375.86,0)"
+             d="M0,28v531"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14068" />
+          <path
+             class="xgrid crisp"
+             transform="translate(529.23,0)"
+             d="M0,28v531"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14070" />
+          <path
+             class="xgrid crisp"
+             transform="translate(682.6,0)"
+             d="M0,28v531"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14072" />
+          <path
+             class="xgrid crisp"
+             transform="translate(835.97,0)"
+             d="M0,28v531"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14074" />
+          <path
+             class="xgrid crisp"
+             transform="translate(989.34,0)"
+             d="M0,28v531"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14076" />
+          <path
+             class="xgrid crisp"
+             transform="translate(1142.71,0)"
+             d="M0,28v531"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14078" />
+        </g>
+        <g
+           class="y"
+           id="g14114">
+          <path
+             class="ygrid crisp"
+             transform="translate(0,534.86)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14082" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,503.08)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14084" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,471.29)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14086" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,439.5)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14088" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,407.72)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14090" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,375.93)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14092" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,344.14)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14094" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,312.36)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14096" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,280.57)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14098" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,248.78)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14100" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,217)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14102" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,185.21)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14104" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,153.42000000000002)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14106" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,121.64)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14108" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,89.85)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14110" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,58.06)"
+             d="M337,0h855"
+             style="stroke: rgb(235, 235, 235); stroke-opacity: 1; stroke-width: 0.724556px;"
+             id="path14112" />
+        </g>
+      </g>
+      <g
+         class="zerolinelayer"
+         id="g14118" />
+      <path
+         class="xlines-below"
+         id="path14120" />
+      <path
+         class="ylines-below"
+         id="path14122" />
+      <g
+         class="overlines-below"
+         id="g14124" />
+      <g
+         class="xaxislayer-below"
+         id="g14126" />
+      <g
+         class="yaxislayer-below"
+         id="g14128" />
+      <g
+         class="overaxes-below"
+         id="g14130" />
+      <g
+         class="plot"
+         transform="translate(337,28)"
+         clip-path="url(#clip18b8c4xyplot)"
+         id="g14674">
+        <g
+           class="scatterlayer mlayer"
+           id="g14672">
+          <g
+             class="trace scatter trace4d0f20"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14144">
+            <g
+               class="fills"
+               id="g14132" />
+            <g
+               class="errorbars"
+               id="g14134" />
+            <g
+               class="lines"
+               id="g14138">
+              <path
+                 class="js-line"
+                 d="M38.86,506.86L816.14,506.86"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14136" />
+            </g>
+            <g
+               class="points"
+               id="g14140" />
+            <g
+               class="text"
+               id="g14142" />
+          </g>
+          <g
+             class="trace scatter traceb6239d"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14158">
+            <g
+               class="fills"
+               id="g14146" />
+            <g
+               class="errorbars"
+               id="g14148" />
+            <g
+               class="lines"
+               id="g14152">
+              <path
+                 class="js-line"
+                 d="M38.86,473.72L40.09,475.08L40.7,475.08L44.38,475.08L45,472.86L46.23,472.08L46.84,472.68L48.68,470.83L49.29,471.14L52.36,474.8L52.97,474.3L54.2,475.08L54.81,475.08L130.27,474.59L130.88,474.01L132.11,475.08L132.73,475.08L273.21,475.08L273.82,474.2L275.05,474.45L275.66,474.61L277.51,475.08L278.12,475.08L291,474.37L291.62,474L292.84,472.45L293.46,473.19L295.3,474.62L295.91,473.62L297.14,474.62L297.75,474.29L299.59,472.83L300.2,473.89L300.82,473.95L301.43,475.08L386.09,474.56L386.7,474.29L387.32,472.57L387.93,473.52L389.16,474.6L389.77,473.8L390.38,472.84L391,474.21L392.23,475.08L392.84,475.08L395.29,474.65L395.91,473.59L397.13,472.38L397.75,474.27L398.97,475.08L399.59,475.08L500.2,474.45L500.81,473.14L501.42,472.99L502.04,473.77L503.26,474.68L503.88,474.45L505.1,475.08L505.72,475.08L716.14,475.08L716.75,474.16L718.59,473.46L719.21,473.74L722.27,475.08L722.89,474.64L725.96,475.08L726.57,475.08L760.92,475.08L761.54,474.09L762.76,475.08L763.38,475.08L816.14,475.08"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14150" />
+            </g>
+            <g
+               class="points"
+               id="g14154" />
+            <g
+               class="text"
+               id="g14156" />
+          </g>
+          <g
+             class="trace scatter trace0fac23"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14172">
+            <g
+               class="fills"
+               id="g14160" />
+            <g
+               class="errorbars"
+               id="g14162" />
+            <g
+               class="lines"
+               id="g14166">
+              <path
+                 class="js-line"
+                 d="M38.86,443.29L816.14,443.29"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14164" />
+            </g>
+            <g
+               class="points"
+               id="g14168" />
+            <g
+               class="text"
+               id="g14170" />
+          </g>
+          <g
+             class="trace scatter trace94822c"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14186">
+            <g
+               class="fills"
+               id="g14174" />
+            <g
+               class="errorbars"
+               id="g14176" />
+            <g
+               class="lines"
+               id="g14180">
+              <path
+                 class="js-line"
+                 d="M38.86,411.5L816.14,411.5"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14178" />
+            </g>
+            <g
+               class="points"
+               id="g14182" />
+            <g
+               class="text"
+               id="g14184" />
+          </g>
+          <g
+             class="trace scatter tracef51296"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14200">
+            <g
+               class="fills"
+               id="g14188" />
+            <g
+               class="errorbars"
+               id="g14190" />
+            <g
+               class="lines"
+               id="g14194">
+              <path
+                 class="js-line"
+                 d="M38.86,379.72L323.52,379.29L324.13,378.31L325.36,376.72L325.97,379.45L328.42,379.72L329.04,379.72L816.14,379.72"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14192" />
+            </g>
+            <g
+               class="points"
+               id="g14196" />
+            <g
+               class="text"
+               id="g14198" />
+          </g>
+          <g
+             class="trace scatter traceeef52a"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14214">
+            <g
+               class="fills"
+               id="g14202" />
+            <g
+               class="errorbars"
+               id="g14204" />
+            <g
+               class="lines"
+               id="g14208">
+              <path
+                 class="js-line"
+                 d="M38.86,347.93L816.14,347.93"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14206" />
+            </g>
+            <g
+               class="points"
+               id="g14210" />
+            <g
+               class="text"
+               id="g14212" />
+          </g>
+          <g
+             class="trace scatter traced69465"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14228">
+            <g
+               class="fills"
+               id="g14216" />
+            <g
+               class="errorbars"
+               id="g14218" />
+            <g
+               class="lines"
+               id="g14222">
+              <path
+                 class="js-line"
+                 d="M38.86,316.14L706.94,315.41L707.55,315.26L708.16,314.74L708.78,316.14L716.14,316.14L716.75,316.14L816.14,316.14"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14220" />
+            </g>
+            <g
+               class="points"
+               id="g14224" />
+            <g
+               class="text"
+               id="g14226" />
+          </g>
+          <g
+             class="trace scatter trace7694c6"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14242">
+            <g
+               class="fills"
+               id="g14230" />
+            <g
+               class="errorbars"
+               id="g14232" />
+            <g
+               class="lines"
+               id="g14236">
+              <path
+                 class="js-line"
+                 d="M38.86,284.36L524.74,283.69L525.35,283.48L527.8,284.36L528.42,284.36L703.87,284.27L704.48,281.51L705.1,281.26L705.71,280.04L706.32,279.82L706.94,278.75L707.55,277.45L708.16,278.37L710.01,283.16L710.62,281.34L712.46,284.36L713.07,284.36L815.52,284.22L816.14,282.83"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14234" />
+            </g>
+            <g
+               class="points"
+               id="g14238" />
+            <g
+               class="text"
+               id="g14240" />
+          </g>
+          <g
+             class="trace scatter tracef71389"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14256">
+            <g
+               class="fills"
+               id="g14244" />
+            <g
+               class="errorbars"
+               id="g14246" />
+            <g
+               class="lines"
+               id="g14250">
+              <path
+                 class="js-line"
+                 d="M38.86,252.57L816.14,252.57"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14248" />
+            </g>
+            <g
+               class="points"
+               id="g14252" />
+            <g
+               class="text"
+               id="g14254" />
+          </g>
+          <g
+             class="trace scatter trace1585f9"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14270">
+            <g
+               class="fills"
+               id="g14258" />
+            <g
+               class="errorbars"
+               id="g14260" />
+            <g
+               class="lines"
+               id="g14264">
+              <path
+                 class="js-line"
+                 d="M38.86,217.8L40.09,218.57L40.7,220.78L82.42,220.72L83.03,219.77L84.26,218.69L84.87,218.89L85.49,218.7L86.1,217.52L86.71,217.26L87.33,215.48L89.78,211.87L90.4,213.15L92.85,216.28L93.46,216.46L94.69,215.16L95.3,215.13L95.92,215.64L96.53,217.72L98.37,219.61L98.98,218.74L99.6,218.17L100.21,218.77L102.05,220.78L102.67,219.75L103.89,220.78L104.51,220.78L116.16,220.58L116.77,218.97L118.62,220.78L119.23,220.61L122.3,220.78L122.91,220.78L149.29,220.35L149.9,218.76L152.36,219.1L152.97,218.34L153.58,218.57L154.2,217.59L154.81,217.76L155.42,219.21L156.65,219.03L157.26,218.27L157.88,218.43L158.49,220.67L162.79,220.78L163.4,220.78L170.15,220.78L170.76,218.97L171.99,218.73L172.6,217.89L173.83,217.02L174.44,217.74L175.67,218.15L176.28,217.14L178.12,220.2L178.74,219.66L179.35,218.6L179.96,219.56L181.19,219.4L181.8,219.14L186.1,220.78L186.71,220.47L188.55,220.78L189.16,220.78L270.14,220.42L270.76,219.35L271.37,219.27L271.98,220.22L273.21,218.91L273.82,220.28L275.05,220.78L275.66,220.61L276.28,220.78L276.89,219.51L279.96,220.78L280.57,220.78L282.41,220.78L283.03,219.51L284.87,219.06L285.48,218.75L286.09,218.18L286.71,219.09L287.93,216.52L288.55,216.68L289.16,216.01L289.77,216.97L290.39,216.42L291,219.63L292.23,220.78L292.84,220.78L294.68,220.78L295.3,220.78L398.36,220.18L398.97,217.63L399.59,217.82L400.2,219.11L401.43,220.34L402.04,220.78L546.82,220.78L547.43,219.87L548.05,219.67L548.66,220.45L550.5,220.78L551.12,220.78L565.23,220.65L565.84,219.85L567.68,220.78L568.29,220.78L569.52,219.25L570.13,220.78L736.38,220.36L737,219.87L738.84,219.15L739.45,219.35L740.07,219.04L740.68,219.58L741.91,220.78L742.52,220.78L792.82,220.18L793.44,218.65L795.28,219.49L795.89,218.44L796.51,216.68L797.12,216.97L797.73,217.71L798.96,219.18L799.57,219.2L800.19,218.56L800.8,219.49L802.03,220.78L802.64,220.78L803.87,220.65L804.48,219.87L805.09,219.23L805.71,220.78L806.93,219.72L807.55,217.78L808.77,215.76L809.39,215.94L811.23,212.74L811.84,212.6L814.3,215.03L814.91,214.2L815.52,212.18L816.14,207.02"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14262" />
+            </g>
+            <g
+               class="points"
+               id="g14266" />
+            <g
+               class="text"
+               id="g14268" />
+          </g>
+          <g
+             class="trace scatter trace8babc1"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14284">
+            <g
+               class="fills"
+               id="g14272" />
+            <g
+               class="errorbars"
+               id="g14274" />
+            <g
+               class="lines"
+               id="g14278">
+              <path
+                 class="js-line"
+                 d="M38.86,189L807.55,188.35L808.16,186.49L809.39,185.99L810,188.31L810.62,188.56L811.23,186.82L811.84,186.09L812.46,186.87L813.68,187L814.3,186.79L814.91,185.76L815.52,186.75L816.14,188.13"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14276" />
+            </g>
+            <g
+               class="points"
+               id="g14280" />
+            <g
+               class="text"
+               id="g14282" />
+          </g>
+          <g
+             class="trace scatter trace7ea148"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14298">
+            <g
+               class="fills"
+               id="g14286" />
+            <g
+               class="errorbars"
+               id="g14288" />
+            <g
+               class="lines"
+               id="g14292">
+              <path
+                 class="js-line"
+                 d="M38.86,157.21L816.14,157.21"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14290" />
+            </g>
+            <g
+               class="points"
+               id="g14294" />
+            <g
+               class="text"
+               id="g14296" />
+          </g>
+          <g
+             class="trace scatter trace442f0f"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14312">
+            <g
+               class="fills"
+               id="g14300" />
+            <g
+               class="errorbars"
+               id="g14302" />
+            <g
+               class="lines"
+               id="g14306">
+              <path
+                 class="js-line"
+                 d="M38.86,125.42L816.14,125.42"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14304" />
+            </g>
+            <g
+               class="points"
+               id="g14308" />
+            <g
+               class="text"
+               id="g14310" />
+          </g>
+          <g
+             class="trace scatter trace0ec1a0"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14326">
+            <g
+               class="fills"
+               id="g14314" />
+            <g
+               class="errorbars"
+               id="g14316" />
+            <g
+               class="lines"
+               id="g14320">
+              <path
+                 class="js-line"
+                 d="M38.86,93.64L810,93.44L810.62,92.85L811.23,92.77L811.84,93.64L816.14,93.64"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14318" />
+            </g>
+            <g
+               class="points"
+               id="g14322" />
+            <g
+               class="text"
+               id="g14324" />
+          </g>
+          <g
+             class="trace scatter trace5171d6"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14340">
+            <g
+               class="fills"
+               id="g14328" />
+            <g
+               class="errorbars"
+               id="g14330" />
+            <g
+               class="lines"
+               id="g14334">
+              <path
+                 class="js-line"
+                 d="M38.86,38.55L40.7,34.21L41.32,34.21L43.77,34.21L44.38,34.21L45.61,37.38L46.23,37.21L46.84,36.6L47.45,37.27L49.29,38.15L49.91,37.4L51.75,34.22L52.36,34.48L52.97,34.98L53.59,34.21L82.42,34.27L83.03,35.22L84.26,36.3L84.87,36.1L85.49,36.29L86.1,37.47L86.71,37.74L87.33,39.51L89.78,43.12L90.4,41.84L92.85,38.71L93.46,38.53L94.69,39.83L95.3,39.86L95.92,39.35L96.53,37.27L97.14,36.49L97.76,37.34L98.37,35.38L98.98,36.25L99.6,36.82L100.21,36.22L102.05,34.21L102.67,35.25L103.89,34.21L104.51,34.21L106.35,34.21L106.96,34.21L116.16,34.41L116.77,36.02L118.62,34.21L119.23,34.38L122.3,34.21L122.91,34.21L130.27,34.7L130.88,35.27L132.11,34.21L132.73,34.21L149.29,34.64L149.9,36.23L152.36,35.89L152.97,36.65L153.58,36.42L154.2,37.4L154.81,37.23L155.42,35.78L156.65,35.96L157.26,36.72L157.88,36.56L158.49,34.32L162.79,34.21L163.4,34.21L165.24,34.21L165.85,34.21L170.15,34.21L170.76,36.02L171.99,36.26L172.6,37.1L173.83,37.98L174.44,37.25L175.67,36.84L176.28,37.85L178.12,34.79L178.74,35.33L179.96,36.55L180.58,35.31L182.42,35.65L183.03,35.45L186.1,34.21L186.71,34.52L188.55,34.21L189.16,34.21L270.14,34.57L270.76,35.64L271.37,35.73L271.98,34.77L273.21,36.08L273.82,35.59L275.05,34.84L275.66,34.85L276.28,34.33L276.89,35.6L279.35,34.33L279.96,34.58L281.8,34.21L282.41,34.21L283.64,35.93L284.25,35.83L286.09,36.81L286.71,35.9L287.93,38.47L288.55,38.31L289.16,38.98L289.77,38.02L290.39,38.57L291,36.07L291.62,35.55L292.23,36.42L292.84,36.83L293.46,36.34L295.3,34.66L295.91,35.67L297.14,34.66L297.75,34.99L299.59,36.46L300.2,35.39L300.82,35.33L301.43,34.21L323.52,34.64L324.13,35.62L325.36,37.2L325.97,34.48L328.42,34.21L329.04,34.21L377.5,34.24L378.12,35.29L378.73,35.68L379.34,35.04L382.41,34.21L383.02,34.21L386.09,34.73L386.7,35L387.32,36.72L387.93,35.77L389.16,34.68L389.77,35.49L390.38,36.45L391,35.07L392.23,34.21L392.84,34.21L395.29,34.64L395.91,35.7L397.13,36.96L397.75,35.43L398.36,34.81L398.97,37.36L399.59,37.17L400.2,35.88L401.43,34.65L402.04,34.21L454.8,34.47L455.41,35.26L456.03,35.65L456.64,34.79L459.09,37.26L459.71,36.55L462.16,35.74L462.77,34.26L472.59,34.21L473.2,34.21L500.2,34.83L500.81,36.14L501.42,36.29L502.04,35.52L503.26,34.61L503.88,34.83L505.1,34.21L505.72,34.21L524.74,34.87L525.35,35.08L527.8,34.21L528.42,34.21L544.37,34.87L544.98,35.1L545.59,34.64L546.21,35.43L546.82,34.65L547.43,35.12L548.05,35.32L548.66,34.54L549.27,34.21L549.89,35.07L551.73,34.21L552.34,34.6L554.18,34.21L554.8,34.21L565.23,34.34L565.84,35.14L567.68,34.21L568.29,34.21L569.52,35.74L570.13,34.21L578.11,34.96L578.72,35.92L580.56,38.36L581.18,38.64L584.86,39.86L585.47,36.83L586.7,37.64L587.31,37.24L589.15,34.21L589.76,34.21L594.06,34.21L594.67,35.48L595.9,35.42L596.51,34.49L598.35,34.21L598.97,34.21L635.77,34.41L636.39,35.02L637,35.09L637.62,34.21L703.87,34.29L704.48,37.06L705.1,37.31L705.71,38.52L706.32,38.74L706.94,40.55L707.55,42L708.16,41.59L708.78,38.87L709.39,37.95L710.01,35.41L710.62,37.23L711.23,36.12L712.46,34.21L713.07,34.21L716.14,34.21L716.75,35.12L718.59,35.83L719.21,35.55L722.27,34.21L722.89,34.65L725.96,34.21L726.57,34.21L736.38,34.63L737,35.12L738.84,35.84L739.45,35.64L740.07,35.96L740.68,35.41L742.52,34.21L743.13,34.21L760.92,34.21L761.54,35.2L762.76,34.21L763.38,34.21L792.82,34.81L793.44,36.34L795.28,35.5L795.89,36.56L796.51,38.32L797.12,38.02L797.73,37.28L798.96,35.81L799.57,35.79L800.19,36.43L800.8,35.5L802.03,34.21L802.64,34.21L803.87,34.34L804.48,35.13L805.09,35.76L805.71,34.21L806.93,35.29L807.55,37.86L808.77,42.83L809.39,42.21L810,41.44L810.62,42.66L811.84,45.3L812.46,43.76L814.3,42.17L814.91,44.03L815.52,45.2L816.14,50.37"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14332" />
+            </g>
+            <g
+               class="points"
+               id="g14336" />
+            <g
+               class="text"
+               id="g14338" />
+          </g>
+          <g
+             class="trace scatter trace95a473"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14354">
+            <g
+               class="fills"
+               id="g14342" />
+            <g
+               class="errorbars"
+               id="g14344" />
+            <g
+               class="lines"
+               id="g14348">
+              <path
+                 class="js-line"
+                 d="M38.86,30.06L97.14,30.06L97.76,29.15L98.98,30.06L99.6,30.06L179.35,29.78L179.96,28.95L181.19,30.06L181.8,30.06L377.5,30.03L378.12,28.98L378.73,28.59L379.34,29.24L382.41,30.06L383.02,30.06L454.8,29.8L455.41,29.01L456.03,28.62L456.64,29.48L459.09,27.01L459.71,27.72L462.16,28.53L462.77,30.01L472.59,30.06L473.2,30.06L544.37,29.4L544.98,29.17L545.59,29.63L546.21,28.84L548.05,30.06L548.66,30.06L549.27,30.06L549.89,29.21L551.73,30.06L552.34,29.67L554.18,30.06L554.8,30.06L578.11,29.31L578.72,28.35L580.56,25.91L581.18,25.63L584.24,24.14L584.86,24.8L585.47,27.56L586.08,26.98L586.7,26.64L587.31,27.03L587.92,28.37L589.15,30.06L589.76,30.06L594.06,30.06L594.67,28.79L595.9,28.85L596.51,29.78L598.35,30.06L598.97,30.06L635.77,29.86L636.39,29.25L637,29.18L637.62,30.06L816.14,30.06"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 0.377953px; opacity: 1;"
+                 id="path14346" />
+            </g>
+            <g
+               class="points"
+               id="g14350" />
+            <g
+               class="text"
+               id="g14352" />
+          </g>
+          <g
+             class="trace scatter trace96a4fc"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14366">
+            <g
+               class="fills"
+               id="g14356" />
+            <g
+               class="errorbars"
+               id="g14358" />
+            <g
+               class="lines"
+               id="g14360" />
+            <g
+               class="points"
+               id="g14362" />
+            <g
+               class="text"
+               id="g14364" />
+          </g>
+          <g
+             class="trace scatter trace5a733c"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14418">
+            <g
+               class="fills"
+               id="g14368" />
+            <g
+               class="errorbars"
+               id="g14370" />
+            <g
+               class="lines"
+               id="g14412">
+              <path
+                 class="js-line"
+                 d="M45,483.55L46.23,482.74L46.84,483.37L48.68,481.47L49.29,481.78L52.36,485.53L52.97,485.02"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14372" />
+              <path
+                 class="js-line"
+                 d="M108.19,485.61L108.8,485.41"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14374" />
+              <path
+                 class="js-line"
+                 d="M45,472.86L46.23,472.08L46.84,472.68L48.68,470.83L49.29,471.14L52.36,474.8L52.97,474.3"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14376" />
+              <path
+                 class="js-line"
+                 d="M273.82,484.92L275.05,485.17L275.66,485.34L276.89,485.69"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14378" />
+              <path
+                 class="js-line"
+                 d="M108.19,474.88L108.8,474.68"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14380" />
+              <path
+                 class="js-line"
+                 d="M291,485.09L292.84,483.13L293.46,483.88L295.3,485.35L295.91,484.32L297.14,485.35L297.75,485.01L299.59,483.52L300.2,484.6L300.82,484.66"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14382" />
+              <path
+                 class="js-line"
+                 d="M130.27,474.59L130.88,474.01"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14384" />
+              <path
+                 class="js-line"
+                 d="M395.29,485.37L397.13,483.06L397.75,484.98"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14386" />
+              <path
+                 class="js-line"
+                 d="M498.97,485.34L500.2,485.17L500.81,483.83L501.42,483.68L502.04,484.47L503.26,485.41L503.88,485.18"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14388" />
+              <path
+                 class="js-line"
+                 d="M716.75,484.88L718.59,484.16L719.21,484.44L721.05,485.03"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14390" />
+              <path
+                 class="js-line"
+                 d="M722.89,485.37L723.5,485.59"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14392" />
+              <path
+                 class="js-line"
+                 d="M273.82,474.2L275.05,474.45L275.66,474.61L276.89,474.96"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14394" />
+              <path
+                 class="js-line"
+                 d="M279.35,474.96L279.96,474.7"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14396" />
+              <path
+                 class="js-line"
+                 d="M291,474.37L292.84,472.45L293.46,473.19L295.3,474.62L295.91,473.62L297.14,474.62L297.75,474.29L299.59,472.83L300.2,473.89L300.82,473.95"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14398" />
+              <path
+                 class="js-line"
+                 d="M384.25,474.76L386.7,474.29L387.32,472.57L389.16,474.6L389.77,473.8L390.38,472.84L391,474.21"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14400" />
+              <path
+                 class="js-line"
+                 d="M395.29,474.65L397.13,472.38L397.75,474.27"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14402" />
+              <path
+                 class="js-line"
+                 d="M498.97,474.62L500.2,474.45L500.81,473.14L501.42,472.99L502.04,473.77L503.26,474.68L503.88,474.45"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14404" />
+              <path
+                 class="js-line"
+                 d="M716.75,474.16L718.59,473.46L719.21,473.74L721.05,474.31"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14406" />
+              <path
+                 class="js-line"
+                 d="M722.89,474.64L723.5,474.86"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14408" />
+              <path
+                 class="js-line"
+                 d="M741.29,474.72L741.91,474.94"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14410" />
+            </g>
+            <g
+               class="points"
+               id="g14414" />
+            <g
+               class="text"
+               id="g14416" />
+          </g>
+          <g
+             class="trace scatter traceecb2fe"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14430">
+            <g
+               class="fills"
+               id="g14420" />
+            <g
+               class="errorbars"
+               id="g14422" />
+            <g
+               class="lines"
+               id="g14424" />
+            <g
+               class="points"
+               id="g14426" />
+            <g
+               class="text"
+               id="g14428" />
+          </g>
+          <g
+             class="trace scatter trace343a77"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14442">
+            <g
+               class="fills"
+               id="g14432" />
+            <g
+               class="errorbars"
+               id="g14434" />
+            <g
+               class="lines"
+               id="g14436" />
+            <g
+               class="points"
+               id="g14438" />
+            <g
+               class="text"
+               id="g14440" />
+          </g>
+          <g
+             class="trace scatter traceef453d"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14456">
+            <g
+               class="fills"
+               id="g14444" />
+            <g
+               class="errorbars"
+               id="g14446" />
+            <g
+               class="lines"
+               id="g14450">
+              <path
+                 class="js-line"
+                 d="M322.9,379.14L323.52,379.29L324.13,378.31L325.36,376.72L325.97,379.45"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14448" />
+            </g>
+            <g
+               class="points"
+               id="g14452" />
+            <g
+               class="text"
+               id="g14454" />
+          </g>
+          <g
+             class="trace scatter trace7fab7b"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14468">
+            <g
+               class="fills"
+               id="g14458" />
+            <g
+               class="errorbars"
+               id="g14460" />
+            <g
+               class="lines"
+               id="g14462" />
+            <g
+               class="points"
+               id="g14464" />
+            <g
+               class="text"
+               id="g14466" />
+          </g>
+          <g
+             class="trace scatter trace92244a"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14484">
+            <g
+               class="fills"
+               id="g14470" />
+            <g
+               class="errorbars"
+               id="g14472" />
+            <g
+               class="lines"
+               id="g14478">
+              <path
+                 class="js-line"
+                 d="M584.86,315.75L585.47,316.03"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14474" />
+              <path
+                 class="js-line"
+                 d="M706.94,315.41L708.16,314.74"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14476" />
+            </g>
+            <g
+               class="points"
+               id="g14480" />
+            <g
+               class="text"
+               id="g14482" />
+          </g>
+          <g
+             class="trace scatter trace0e43b4"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14508">
+            <g
+               class="fills"
+               id="g14486" />
+            <g
+               class="errorbars"
+               id="g14488" />
+            <g
+               class="lines"
+               id="g14502">
+              <path
+                 class="js-line"
+                 d="M513.69,284.33L514.31,284.14"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14490" />
+              <path
+                 class="js-line"
+                 d="M524.12,290.18L525.96,290.27L526.58,290.58"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14492" />
+              <path
+                 class="js-line"
+                 d="M703.87,290.7L705.1,287.61L705.71,286.37L706.32,286.15L706.94,285.04L707.55,283.72L708.16,284.66L710.01,289.56L710.62,287.7L711.85,290.63"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14494" />
+              <path
+                 class="js-line"
+                 d="M524.12,283.76L525.96,283.86L526.58,284.16"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14496" />
+              <path
+                 class="js-line"
+                 d="M703.87,284.27L705.1,281.26L705.71,280.04L706.32,279.82L706.94,278.75L707.55,277.45L708.16,278.37L710.01,283.16L710.62,281.34L711.85,284.21"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14498" />
+              <path
+                 class="js-line"
+                 d="M815.52,284.22L816.14,282.83"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14500" />
+            </g>
+            <g
+               class="points"
+               id="g14504" />
+            <g
+               class="text"
+               id="g14506" />
+          </g>
+          <g
+             class="trace scatter traced331ba"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14520">
+            <g
+               class="fills"
+               id="g14510" />
+            <g
+               class="errorbars"
+               id="g14512" />
+            <g
+               class="lines"
+               id="g14514" />
+            <g
+               class="points"
+               id="g14516" />
+            <g
+               class="text"
+               id="g14518" />
+          </g>
+          <g
+             class="trace scatter tracebfe76a"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14580">
+            <g
+               class="fills"
+               id="g14522" />
+            <g
+               class="errorbars"
+               id="g14524" />
+            <g
+               class="lines"
+               id="g14574">
+              <path
+                 class="js-line"
+                 d="M38.86,217.8L40.09,218.57"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14526" />
+              <path
+                 class="js-line"
+                 d="M82.42,220.72L84.26,218.69L84.87,218.89L85.49,218.7L86.1,217.52L86.71,217.26L87.33,215.48L89.78,211.87L90.4,213.15L92.85,216.28L93.46,216.46L94.69,215.16L95.3,215.13L95.92,215.64L96.53,217.72L98.37,219.61L98.98,218.74L99.6,218.17L100.21,218.77L100.82,219.56"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14528" />
+              <path
+                 class="js-line"
+                 d="M116.16,225.57L116.77,223.92L117.39,225.03L118,225.53"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14530" />
+              <path
+                 class="js-line"
+                 d="M116.16,220.58L116.77,218.97L117.39,220.05L118,220.55"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14532" />
+              <path
+                 class="js-line"
+                 d="M170.76,223.92L171.99,223.68L172.6,222.82L173.83,221.92L174.44,222.66L175.67,223.08L176.28,222.05L178.12,225.17L178.74,224.62L179.35,223.54L179.96,224.52L181.19,224.36L181.8,224.09L184.26,225.2"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14534" />
+              <path
+                 class="js-line"
+                 d="M149.29,220.35L150.52,218.94L151.13,219.12L152.36,219.1L152.97,218.34L153.58,218.57L154.2,217.59L154.81,217.76L155.42,219.21L156.65,219.03L157.26,218.27L157.88,218.43L158.49,220.67"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14536" />
+              <path
+                 class="js-line"
+                 d="M170.76,218.97L171.99,218.73L172.6,217.89L173.83,217.02L174.44,217.74L175.67,218.15L176.28,217.14L178.12,220.2L178.74,219.66L179.35,218.6L179.96,219.56L181.19,219.4L181.8,219.14L184.26,220.23"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14538" />
+              <path
+                 class="js-line"
+                 d="M186.71,220.47L187.94,220.66"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14540" />
+              <path
+                 class="js-line"
+                 d="M195.3,220.42L195.91,220.17"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14542" />
+              <path
+                 class="js-line"
+                 d="M283.03,224.47L284.87,224.01L285.48,223.69L286.09,223.12L286.71,224.05L287.93,221.41L288.55,221.58L289.16,220.89L289.77,221.87L290.39,221.31L291,224.6L291.62,225.5"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14544" />
+              <path
+                 class="js-line"
+                 d="M270.14,220.42L271.37,219.27L271.98,220.22L273.21,218.91L273.82,220.28"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14546" />
+              <path
+                 class="js-line"
+                 d="M547.43,224.84L548.05,224.64L548.66,225.44"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14548" />
+              <path
+                 class="js-line"
+                 d="M276.89,219.51L278.12,220.38"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14550" />
+              <path
+                 class="js-line"
+                 d="M283.03,219.51L284.87,219.06L285.48,218.75L286.09,218.18L286.71,219.09L287.93,216.52L288.55,216.68L289.16,216.01L289.77,216.97L290.39,216.42L291,219.63L291.62,220.52"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14552" />
+              <path
+                 class="js-line"
+                 d="M735.77,225.21L737,224.84L737.61,224.33L738.84,224.1L739.45,224.31L740.07,223.99L740.68,224.55L741.29,225.65"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14554" />
+              <path
+                 class="js-line"
+                 d="M397.13,220.72L398.36,220.18L398.97,217.63L399.59,217.82L400.2,219.11L401.43,220.34"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14556" />
+              <path
+                 class="js-line"
+                 d="M803.87,225.64L805.09,224.18"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14558" />
+              <path
+                 class="js-line"
+                 d="M547.43,219.87L548.05,219.67L548.66,220.45"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14560" />
+              <path
+                 class="js-line"
+                 d="M565.23,220.65L565.84,219.85L566.45,220.34L567.07,220.5"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14562" />
+              <path
+                 class="js-line"
+                 d="M568.91,219.25L569.52,219.25"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14564" />
+              <path
+                 class="js-line"
+                 d="M735.77,220.23L737,219.87L737.61,219.37L738.84,219.15L739.45,219.35L740.07,219.04L740.68,219.58L741.29,220.66"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14566" />
+              <path
+                 class="js-line"
+                 d="M792.82,220.18L794.05,218.8L794.66,219.47L795.28,219.49L795.89,218.44L796.51,216.68L797.12,216.97L797.73,217.71L798.96,219.18L799.57,219.2L800.19,218.56L800.8,219.49"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14568" />
+              <path
+                 class="js-line"
+                 d="M803.87,220.65L805.09,219.23"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14570" />
+              <path
+                 class="js-line"
+                 d="M806.32,220.45L806.93,219.72L807.55,217.78L808.77,215.76L809.39,215.94L811.23,212.74L811.84,212.6L814.3,215.03L814.91,214.2L815.52,212.18L816.14,207.02"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14572" />
+            </g>
+            <g
+               class="points"
+               id="g14576" />
+            <g
+               class="text"
+               id="g14578" />
+          </g>
+          <g
+             class="trace scatter tracebb2208"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14594">
+            <g
+               class="fills"
+               id="g14582" />
+            <g
+               class="errorbars"
+               id="g14584" />
+            <g
+               class="lines"
+               id="g14588">
+              <path
+                 class="js-line"
+                 d="M806.93,188.97L807.55,188.35L808.16,186.49L809.39,185.99L810,188.31L810.62,188.56L811.23,186.82L811.84,186.09L812.46,186.87L813.68,187L814.3,186.79L814.91,185.76L815.52,186.75L816.14,188.13"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14586" />
+            </g>
+            <g
+               class="points"
+               id="g14590" />
+            <g
+               class="text"
+               id="g14592" />
+          </g>
+          <g
+             class="trace scatter tracea5dab1"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14606">
+            <g
+               class="fills"
+               id="g14596" />
+            <g
+               class="errorbars"
+               id="g14598" />
+            <g
+               class="lines"
+               id="g14600" />
+            <g
+               class="points"
+               id="g14602" />
+            <g
+               class="text"
+               id="g14604" />
+          </g>
+          <g
+             class="trace scatter trace67faac"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14618">
+            <g
+               class="fills"
+               id="g14608" />
+            <g
+               class="errorbars"
+               id="g14610" />
+            <g
+               class="lines"
+               id="g14612" />
+            <g
+               class="points"
+               id="g14614" />
+            <g
+               class="text"
+               id="g14616" />
+          </g>
+          <g
+             class="trace scatter trace0c6418"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14632">
+            <g
+               class="fills"
+               id="g14620" />
+            <g
+               class="errorbars"
+               id="g14622" />
+            <g
+               class="lines"
+               id="g14626">
+              <path
+                 class="js-line"
+                 d="M808.77,93.37L810,93.44L810.62,92.85L811.23,92.77"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14624" />
+            </g>
+            <g
+               class="points"
+               id="g14628" />
+            <g
+               class="text"
+               id="g14630" />
+          </g>
+          <g
+             class="trace scatter trace727e4c"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g14670">
+            <g
+               class="fills"
+               id="g14634" />
+            <g
+               class="errorbars"
+               id="g14636" />
+            <g
+               class="lines"
+               id="g14664">
+              <path
+                 class="js-line"
+                 d="M179.35,30.45L179.96,29.6"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14638" />
+              <path
+                 class="js-line"
+                 d="M376.89,30.64L377.5,30.71L378.12,29.63L378.73,29.23L379.34,29.9L379.96,30.16"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14640" />
+              <path
+                 class="js-line"
+                 d="M179.35,29.78L179.96,28.95"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14642" />
+              <path
+                 class="js-line"
+                 d="M486.09,30.47L486.7,30.63"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14644" />
+              <path
+                 class="js-line"
+                 d="M544.37,30.07L546.21,29.5L546.82,30.29"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0px; opacity: 1;"
+                 id="path14646" />
+              <path
+                 class="js-line"
+                 d="M376.89,29.96L377.5,30.03L378.12,28.98L378.73,28.59L379.34,29.24L379.96,29.5"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14648" />
+              <path
+                 class="js-line"
+                 d="M454.8,29.8L456.03,28.62L456.64,29.48L459.09,27.01L459.71,27.72L462.16,28.53L462.77,30.01"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14650" />
+              <path
+                 class="js-line"
+                 d="M486.09,29.8L486.7,29.96"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14652" />
+              <path
+                 class="js-line"
+                 d="M544.37,29.4L546.21,28.84L546.82,29.62"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14654" />
+              <path
+                 class="js-line"
+                 d="M549.89,29.21L550.5,29.46"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14656" />
+              <path
+                 class="js-line"
+                 d="M577.49,30.01L581.79,25.37L582.4,25.5L583.63,24.96L584.24,24.14L584.86,24.8L585.47,27.56L586.7,26.64L587.31,27.03L588.54,29.6"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14658" />
+              <path
+                 class="js-line"
+                 d="M594.67,28.79L595.9,28.85L596.51,29.78"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14660" />
+              <path
+                 class="js-line"
+                 d="M635.77,29.86L637,29.18"
+                 style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 100, 0); stroke-opacity: 1; stroke-width: 1.70079px; opacity: 1;"
+                 id="path14662" />
+            </g>
+            <g
+               class="points"
+               id="g14666" />
+            <g
+               class="text"
+               id="g14668" />
+          </g>
+        </g>
+      </g>
+      <g
+         class="overplot"
+         id="g14676" />
+      <path
+         class="xlines-above crisp"
+         d="M0,0"
+         style="fill: none;"
+         id="path14678" />
+      <path
+         class="ylines-above crisp"
+         d="M0,0"
+         style="fill: none;"
+         id="path14680" />
+      <g
+         class="overlines-above"
+         id="g14682" />
+      <g
+         class="xaxislayer-above"
+         id="g14708">
+        <g
+           class="xtick"
+           id="g14686">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="572.7521793275218"
+             transform="translate(375.86,0)"
+             style="font-family: Brill; font-size: 12.7522px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             id="text14684">0</text>
+        </g>
+        <g
+           class="xtick"
+           id="g14690">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="572.7521793275218"
+             style="font-family: Brill; font-size: 12.7522px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(529.23,0)"
+             id="text14688">50000</text>
+        </g>
+        <g
+           class="xtick"
+           id="g14694">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="572.7521793275218"
+             style="font-family: Brill; font-size: 12.7522px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(682.6,0)"
+             id="text14692">100000</text>
+        </g>
+        <g
+           class="xtick"
+           id="g14698">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="572.7521793275218"
+             style="font-family: Brill; font-size: 12.7522px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(835.97,0)"
+             id="text14696">150000</text>
+        </g>
+        <g
+           class="xtick"
+           id="g14702">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="572.7521793275218"
+             style="font-family: Brill; font-size: 12.7522px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(989.34,0)"
+             id="text14700">200000</text>
+        </g>
+        <g
+           class="xtick"
+           id="g14706">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="572.7521793275218"
+             style="font-family: Brill; font-size: 12.7522px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(1142.71,0)"
+             id="text14704">250000</text>
+        </g>
+      </g>
+      <g
+         class="yaxislayer-above"
+         id="g14774">
+        <g
+           class="ytick"
+           id="g14712">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             transform="translate(0,534.86)"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             id="text14710">“Greek” (yūnānīyāt)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14716">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,503.08)"
+             id="text14714">“scholastic theology” (kalām)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14720">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,471.29)"
+             id="text14718">bibliographies (fahāris kutubiyyaŧ)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14724">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,439.5)"
+             id="text14722">biographical collections (tarājim)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14728">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,407.72)"
+             id="text14726">chronicles (tawāriḫ)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14732">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,375.93)"
+             id="text14730">dictionaries (maʿājim luġawīyyaŧ)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14736">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,344.14)"
+             id="text14734">doxography (milal / niḥal)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14740">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,312.36)"
+             id="text14738">geography (juġrāfiyā)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14744">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,280.57)"
+             id="text14742">grammar (naḥw)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14748">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,248.78)"
+             id="text14746">legal texts (fiqh)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14752">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,217)"
+             id="text14750">life of the Prophet (sīraŧ)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14756">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,185.21)"
+             id="text14754">medical texts (ṭibb)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14760">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,153.42000000000002)"
+             id="text14758">poetry (šiʿr)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14764">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,121.64)"
+             id="text14762">Prophetic tradition (ḥadīṯ)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14768">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,89.85)"
+             id="text14766">Qurʾānic exegesis (tafsīr)</text>
+        </g>
+        <g
+           class="ytick"
+           id="g14772">
+          <text
+             text-anchor="end"
+             x="336"
+             y="6.508924865089255"
+             style="font-family: Brill; font-size: 18.5969px; fill: rgb(77, 77, 77); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,58.06)"
+             id="text14770">rhetoric / eloquence (balāġaŧ)</text>
+        </g>
+      </g>
+      <g
+         class="overaxes-above"
+         id="g14776" />
+    </g>
+  </g>
+  <g
+     class="polarlayer"
+     id="g14782" />
+  <g
+     class="ternarylayer"
+     id="g14784" />
+  <g
+     class="geolayer"
+     id="g14786" />
+  <g
+     class="funnelarealayer"
+     id="g14788" />
+  <g
+     class="pielayer"
+     id="g14790" />
+  <g
+     class="iciclelayer"
+     id="g14792" />
+  <g
+     class="treemaplayer"
+     id="g14794" />
+  <g
+     class="sunburstlayer"
+     id="g14796" />
+  <g
+     class="glimages"
+     id="g14798" />
+  <defs
+     id="topdefs-18b8c4">
+    <g
+       class="clips"
+       id="g14800" />
+  </defs>
+  <g
+     class="layer-above"
+     id="g14809">
+    <g
+       class="imagelayer"
+       id="g14803" />
+    <g
+       class="shapelayer"
+       id="g14807">
+      <path
+         data-index="0"
+         fill-rule="evenodd"
+         d="M337,559H1192V28H337Z"
+         style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0px;"
+         id="path14805" />
+    </g>
+  </g>
+  <g
+     class="infolayer"
+     id="g14817">
+    <g
+       class="g-gtitle"
+       id="g14811" />
+    <g
+       class="g-xtitle"
+       id="g14813" />
+    <g
+       class="g-ytitle"
+       id="g14815" />
+  </g>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.895864;stroke-opacity:1"
+     id="rect2099-6"
+     width="787.28296"
+     height="32.577106"
+     x="373.41171"
+     y="59.101746" />
+</svg>

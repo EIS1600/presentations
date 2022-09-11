@@ -2,8 +2,6 @@ background-image: url(./images/bg_DOT2022.png)
 background-size: contain
 class: center, bottom
 
-
-
 ???
 - Presentation @ DOT2022, at a panel organized with Till Grallert
 
@@ -12,9 +10,9 @@ background-image: url(./images/bg_default_2021_eis.png)
 background-size: contain
 class: center, middle
 
-## *COMPUTATIONAL CONTRIBUTIONS TO THE SOCIAL AND CULTURAL HISTORIES OF THE ISLAMICATE WORLD*
+### *COMPUTATIONAL CONTRIBUTIONS TO THE SOCIAL AND CULTURAL HISTORIES OF THE ISLAMICATE WORLD*
 
-### Similarity-Based Networks<br> for Islamicate Digital Humanities
+## Similarity-Based Networks<br> for Islamicate Digital Humanities
 
 Maxim Romanov, *Universität Hamburg*
 <br><maxim.romanov@uni-hamburg.de>
@@ -28,26 +26,9 @@ background-image: url(./images/bg_default_2021_eis.png)
 background-size: contain
 class: center, middle
 
-## *COMPUTATIONAL CONTRIBUTIONS TO THE SOCIAL AND CULTURAL HISTORIES OF THE ISLAMICATE WORLD*
+### *COMPUTATIONAL CONTRIBUTIONS TO THE SOCIAL AND CULTURAL HISTORIES OF THE ISLAMICATE WORLD*
 
-### Similarity-Based ~~Networks~~<br> for Islamicate Digital Humanities
-
-Maxim Romanov, *Universität Hamburg*
-<br><maxim.romanov@uni-hamburg.de>
-
-#### #DOT2022, 12 September 2022
-
-???
-
-
----
-background-image: url(./images/bg_default_2021_eis.png)
-background-size: contain
-class: center, middle
-
-## *COMPUTATIONAL CONTRIBUTIONS TO THE SOCIAL AND CULTURAL HISTORIES OF THE ISLAMICATE WORLD*
-
-### Similarity-Based Research<br> for Islamicate Digital Humanities
+## Similarity-Based ~~Networks~~<br> for Islamicate Digital Humanities
 
 Maxim Romanov, *Universität Hamburg*
 <br><maxim.romanov@uni-hamburg.de>
@@ -62,198 +43,1098 @@ background-image: url(./images/bg_default_2021_eis.png)
 background-size: contain
 class: center, middle
 
-# before the 19th century...
+### *COMPUTATIONAL CONTRIBUTIONS TO THE SOCIAL AND CULTURAL HISTORIES OF THE ISLAMICATE WORLD*
 
----
-background-image: url(./images/bg_default_2021_eis.png)
-background-size: contain
-class: center, middle
+## Similarity-Based Research<br> for Islamicate Digital Humanities
 
-# OpenITI Corpus: GitHub
+Maxim Romanov, *Universität Hamburg*
+<br><maxim.romanov@uni-hamburg.de>
 
-<img src="./images/openiti_github.png" alt="Drawing" style="width: 750px;"/>
+#### #DOT2022, 12 September 2022
 
----
-background-image: url(./images/bg_default_2021_eis.png)
-background-size: contain
+???
 
-
-# OpenITI Corpus: Description
-
-
-- *Open Islamicate Texts Initiative* (*OpenITI*)
-	- *website*: <https://openiti.org/>
-	- *corpus*: <https://github.com/OpenITI>
-		- LATEST RELEASE: Nigst, Lorenz, Romanov, Maxim, Savant, Sarah Bowen, Seydi, Masoumeh, *&* Verkinderen, Peter. (2022). *OpenITI: a Machine-Readable Corpus of Islamicate Texts* (2022.1.6) [Data set]. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6808108.svg)](https://doi.org/10.5281/zenodo.6808108) 
-	- **NB:** started as *OpenArabic* under the patronage of Dr. Gregory Crane (at Perseus Digital Library and Leipzig U)
-
-- *OpenITI Statistics*
-	- Number of unique book titles: **6,785** (**1,1 bln. tokens**)
-	- Number of authors: **2,843**
-	- Number of book titles (all versions/editions) **11,195** (**2,25 bln. tokens**)
 
 
 ---
-background-image: url(./images/bg_default_2021_eis.png)
+background-image: url(./images/bg_default_2021_white.png)
 background-size: contain
+class: middle
 
-# OpenITI: Zenodo Releases
+## The Digital Stage / Turn:
 
-<img src="./images/zenodo_202216.png" alt="Drawing" style="width: 750px;"/>
+- the quantitative shift leads to the qualitative change;
+
+	- new ways of engaging with our data;
+
+	- new research questions;
+
+- Analogy, the Print Stage / Turn:
+
+	- common frame of reference for primary sources (al-Ṭabarī);
+
+	- large pool of printed references;
+
+	- after the print turn, one could no longer do research without printed materials, primary or secondary;
+
+???
+- Tabari's "History": 
 
 ---
-background-image: url(./images/bg_default_2021_eis.png)
+background-image: url(./images/bg_default_2021_white.png)
 background-size: contain
+class: middle
 
-# OpenITI: Problems
+## What is Digital Humanities?
 
-- Premodern texts: high level of text reuse
+- DH current state: 3 poorly connected domains of:
 
-- No publications on stylometric research on Arabic texts, especially premodern
+	- digital objects;
 
-- Experimental discovery of optimal parameters:
+	- metaobjects;
 
-	- 19th century test corpus (text reuse minimal-to-nonexistent)
-	- testing all meaningfull combinations of parameters
+	- methods;
 
+- DH true function:
 
----
-background-size: contain
+	- to facilitate the transition to the Digital Stage:
 
-# TR: *passim*.red.bold[\*]
-
-<img src="./images/tr_example02.png" alt="Drawing" style="width: 700px;"/>
-
-.footnote[.red.bold[\*]developed by David Smith, Northeastern University, USA] 
-
-
----
-background-image: url(./images/bg_default_2021_eis.png)
-background-size: contain
-
-# TR: *Taʾrīḫ al-islām*
-
-<img src="./images/ex01.png" alt="Drawing" style="width: 750px;"/>
-<img src="./images/ex02.png" alt="Drawing" style="width: 750px;"/>
-
-
----
-background-image: url(./images/bg_default_2021_eis.png)
-background-size: contain
-
-# TR: *Taʾrīḫ al-islām*
-
-<img src="./images/ex03.png" alt="Drawing" style="width: 750px;"/>
-<img src="./images/ex04.png" alt="Drawing" style="width: 750px;"/>
-
----
-background-image: url(./images/bg_default_2021_eis.png)
-background-size: contain
-
-# TR: *Taʾrīḫ al-islām*
-
-<img src="./images/ex05.png" alt="Drawing" style="width: 750px;"/>
-<img src="./images/ex06.png" alt="Drawing" style="width: 750px;"/>
+	- all three domains are organically interconnected producing “Networks of Knowledge” allowing for new ways of engaging with information;
 
 
 ---
-background-image: url(./images/bg_default_2021_eis.png)
+background-image: url(./images/vannevar_bush_mountain_of_research.jpg)
 background-size: contain
 
-# Stylometry with R: `stylo`
-
-- Eder, Maciej, Jan Rybicki, and Mike Kestemont. “Stylometry with R: A Package for Computational Text Analysis.” *The R Journal* 8, no. 1 (August 2016): 107–121.
-
-	- their code, slightly modified to:
-		- to load and preprocess the corpus in Arabic more efficiently;
-		- to apply multiprocessing to speed things up;
-		- to loop through all relevant parameters;
+???
+Mountain of research
 
 
 ---
-background-image: url(./images/bg_default_2021_eis.png)
+background-image: url(./images/bg_default_2021_white.png)
 background-size: contain
+class: middle
 
-# Stylometry with R: *test corpus*
+### “Mountain of Research” > “Networks of Knowledge”
 
-- The dataset contains three collections of mainly literary Arabic texts from the 19th and early 20th centuries.
+- “The Mountain of Research”: already in 1945, Vannevar Bush (an American engineer, inventor and science administrator)
+
+	- he tought of a machine, *Memex*, that would suggests connections.
+
+		- *Internet* is said to be what became of this idea.
+
+	- Now, we can use methods that suggest connections: this is what I refered to as “similarity-based research”
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: top
+
+### Our “Mountain of Research” is small, yet...
+
+<br>
+
+<img src="./images/ii_publications_every_year_cumulative.svg" alt="Drawing" style="width: 100%;"/>
+
+.footnote[<i>Index Islamicus</i> contains about 640,000 books, articles, and book chapters.]
+
+
+---
+class: top, english
+exclude: false
+
+### Our “Mountain of Research” is small, yet...
+
+<br>
+
+- Ignaz Goldziher (d. 1921): only about 1%
+
+- Vasily/Wilhelm Bartold (d. 1930): about 2%
+
+- Ignatii Krachkovskii (d. 1951): about 4%
+
+- Joseph Schacht (d. 1969): about 8,5%
+
+- **[1973: 10% threshold]**
+
+- Stanislav M. Prozorov (defended: 1967): about 8%
+
+- Alexander D. Knysh (defended: 1986): about 20% (2,5 times more)
+
+- My cohort (defended: ±2013): about 80% (10 times more and 4 times more, respectively)
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: top
+
+### Our “Mountain of Research” is small, yet...
+
+
+<img src="./images/ii_publications_every_year_cumulative.svg" alt="Drawing" style="width: 100%;"/>
+
+
+- the number of publications has doubled since 2001 — in less than 20 years.
+
+- even if we consider the most conservative growth rate, there may be twice as many publications about the Islamic world—1,2 billion!—by the year 2040.
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: top
+
+### Similarity-Based Research
+
+- research objects are transformed into numeric abstractions (vectors);
+
+- vectors are then compared mathematically > similar vectors represent similar objects;
+
+- similarity values allow us to build networks of interconnected objects > “Networks of Knowledge”
+
+- the exact idea of “similarity” is determined:
+
+	- by research questions (i.e., what we model);
+
+	- by methods (i.e., how we model)
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: top
+
+### Similarity-Based Research
+
+- methods determine what is selected as *proxies* (or *features*, or *abstractions*):
+
+	- in text text analysis, most common proxies are *ngrams* (or *tokens*, or *words*); or, more precisely, their frequencies;
+
+		- authorship attribution (stylometry) relies on *most frequent* ngrams > a document, or, better, an author, can be represented as a curve of these MFT: every text written by the same individual will have a very similar the same curve;
+		
+		- text classification (topic modeling) relies on *networks of co-occurences* of ngrams > a *topic* can be represented as a curve of relative frequencies of co-occurences specific ngrams;
+		
+		- keyword extraction (TFIDF) relies on tfidf-frequencies to extract most important ngrams for any text.
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: top
+
+### Similarity-Based Research
+
+- the comparison of these abstractions (numeric vectors) is commonly done through methods from *linear algebra*, mainly:
+
+	- operations on matrices (comparison), since each of our research objects are represented as vectors and matrices are, essentially, “tables” of vectors;
+
+		- comparison operations: Euclidean distance, Manhattan distance, cosine distance, etc.;
+
+- the similarity is most commonly expressed on a scale between 0 and 1, where:
+
+	- 0 means a complete match, and
+
+	- 1 means nothing in common.
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+### TFIDF: *Term Frequency - Inverse Document Frequency*
+
+- *keywords*: words that are relatively frequent in a given text (term frequency) and relatively infrequent across a given corpus (inverse document frequency), for example:
+
+	- في is extremely frequent and occurs in every Arabic text:
+		- TF = extremely high; IDF = low; TFIDF = *LOW*
+
+	- توفي is relatively frequent, but does not occurs every Arabic text:
+		- TF = moderate; IDF = high; TFIDF = *HIGH*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+#### TFIDF: *Taʾrīḫ al-islām* of al-Ḏahabī (d. 748/1348 CE) and its *familiars*
+
+<img src="./images/tarikhIslam_familiars_B.png" alt="Drawing" style="width: 100%;"/>
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+
+* **NOTE:** for EIS1600, I needed to make sure that I am using all the relevant texts from the corpus (i.e., all chronicles and biographical collections, or texts that might not be as squarely identifiable as such, but in fact contain lost of relevant information.
+
+- ***issues* with TFIDF**:
+	- does not always work perfectly for this purpose, since we only use “vocabulary” as our *proxy*;
+	- allows us to find “familiars” / “comparables” of specific texts, but does not necessarily grasps more complex categories like “genre”;
+	- costly in terms of computational resources (“do not try this at home”);
+		- a huge thank-you to Prof Savant for letting me use the KITAB Server with its 48 cores, 128Gb of RAM, and practically unlimited storage space; it still takes days to run this kind of analyses;
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+### TFIDF + Machine Learning
+
+- ML allows us to train a model (a measuring stick) that can be used to assess individual texts in a more abstract way, and more efficiently — in technical terms (a research server still helps);
+
+- we can feed to the ML model examples of texts that we consider to belong to the same category, i.e. representing a cpecific genre (for genre classification, TFIDF), or a specific author (for authorship attribution, MFF);
+
+- ML libraries (like, `skitlearn` for Python) offer all the necessary “machinery” to train a variety of models and automatically test their accuracy; (Note: not *deep learning*, but “classical machine learning”.)
+
+
+???
+
+ML : models using statistics, i.e. following main statistical principles;
+DL : models using artificial neural networks that mimick the work of our brain;
+DL is a more narrow notion; both ML and DL are parts of Artifical Intelligence; DL is a particular part of ML
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+### Machine Learning
+
+- What is a model in this case?!
+	- machine learning algorithm goes through mountains of data searching for patterns that allow make predictions; the found results are then stored in a model, that can be used to make those predictions; thus, a model is a file that has been trained to recognize certain types of patterns;
+
+- Types of ML models:
+	- linear regression;
+	- naïve bayes;
+	- support vector machines;
+	- stochastic gradient descent;
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+### Machine Learning Models
+
+- Which one is best?
+
+	- even the specialists will not give you a satisfactory answer...
+	- solution: experimentation
+		- train all available models with changing sets of parameters;
+		- results will let you know which ones perform best;
+
+	- Dozens of test later, experimentally:
+		- SGD, 30,000 ngrams (both *unigram*s and *bigram*s), TFIDF values
+		- The model learned to recognize samples supplied in training data (25% is withheld as test data) with accuracy nearing the perfect 100%
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+### Machine Learning: “Genre” Classification
+
+
+- Note: genres / categories / comparables
+
+
+- this is where the most difficult part is:
+
+	- what are they?
 	
-	- `corpus022_JurjiZaydan_Dated` is a dated corpus of 22 historical novels by Jurjī Zaydān. It is well established that Jurjī Zaydān was publishing roughly one novel per year and the dates of publication are well known, which makes this corpus a valuable material for testing chronological changes in the style of individual writers.
+	- which texts represent them?
+
+<br>
 	
-	- `corpus065` is a corpus of 65 books by 8 authors;
+- this is both very difficult and very easy:
+
+	- *the difficult part*: if there is anything we know for sure, it is that we often disagree on such questions;
 	
-	- `corpus300` contains 300 books by 28 authors;
-
-- Romanov, Maxim. (2021). *A Corpus of Arabic Literature (19-20th centuries) for Stylometric Tests (1.0.0)* [Data set]. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5772261.svg)](https://doi.org/10.5281/zenodo.5772261)
-
----
-background-image: url(./images/bg_default_2021_eis.png)
-background-size: contain
-
-# Stylometry with R: *parameters*
-
-- MFF: 100-500 in increments of 100;
-
-- types of MFF: both words/tokens and characters;
-
-- lengths of MFF: from 1grams to 4grams in increments of 1;
-
-- culling unique features: from 0 to 50% in increments of 10;
-
-- all 14 distance measures available in “stylo”:
-	- `cosine`, `delta`, `argamon`, `eder`, `minmax`, `entropy`, `[eder's] simple [delta]`, `wurzburg`, `manhattan`, `canberra`, `minkowski`, `euclidean`, `binary`, `maximum`
-
-- lengths of samples: from 100 to 12,000 tokens in increments of 100 
-
-- about 8 mln tests altogether. Many thanks to Sarah Savant and the KITAB Project, AKU-London, for their server!
-
+	- *the easy part*: we do not have to argue, as we can model as many different categories as we may need;
+	
+	- *the advantage*: this approach will allow us to test our assumptions about genres;
 
 ---
-background-image: url(./images/bg_default_2021_eis.png)
+background-image: url(./images/bg_default_2021_white.png)
 background-size: contain
+class: middle
 
-# Stylometry with R: *tests*
+### Machine Learning: “Genre” Classification
 
-- only consecutive slices in this experiment, since one of the main questions was “what would be the shortest text for which we may still expect reliable results?”
+<img src="./images/SGD_Genres_Report.png" alt="Drawing" style="width: 500px; align-content: 'center';"/>
 
-- a new temporary corpus was automatically generated for each combination of parameters where each text was represented by two slices of set length (i.e. we used 600 slices for each test)
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
 
-- then we checked how well we could match together slices from the same books and slices by the same authors using Ward’s clustering (`ward.D2` in `hclust`).
+### Machine Learning: “Genre” Classification — *Experiment*
 
-- the results were then graphed to allow for a visual exploration of how the precision of matching changes as we gradually increase slices.
+<img src="./images/SGD_Fiqh_Report.png" alt="Drawing" style="width: 500px; align-content: 'center';"/>
+
+- **Note:**
+	- *precision* = tp / (tp + fp)
+	- *recall* = tp / (tp + fn)
+	- *f1-score* = 2 \* (*precision* \* *recall* / (*precision* + *recall*))
+		- harmonic mean of *precision* and *recall*
 
 
 ---
-background-image: url(./images/bg_default_2021_eis.png)
+background-image: url(./images/bg_default_2021_white.png)
 background-size: contain
+class: middle
 
-# Stylometry with R: *graphs*
+### Machine Learning: “Genre” Classification - *Training Data*
 
-<img src="./images/test_results_redLine.png" alt="Drawing" style="width: 750px;"/>
 
-The graph shows the best results, which have been achieved with: 100-500 single tokens as MFF, no culling, and Eder’s Simple Delta as the distance measure. With these parameters, we can expect almost 100% matching with 200-500 MFF and with slices as small as 2,500 tokens. We can even push to 1,700-1,800 tokens with matching still staying around 95%.
+- chronicles (*tawāriḫ*):
+
+	- 0421Miskawayh.Tajarib, 0488ZahirDin.DhaylTajaribUmam, 0630IbnAthirCizzDin.Kamil, 0748Dhahabi.CibarFiKhabar, 1237Jabarti.CajaibAthar
+
+
+- biographical collections (*tarājim*):
+
+	- 0578IbnBashkuwal.Sila, 0630IbnAthirCizzDin.UsdGhaba, 0637IbnDubaythi.DhaylTarikhBaghdad, 0642IbnNajjar.DhaylTarikhBaghdad, 0681IbnKhallikan.WafayatAcyan, 0764Safadi.WafiBiWafayat, 0771TajDinSubki.TabaqatShaficiyyaKubra, 0795IbnRajabHanbali.DhaylTabaqatHanabila
 
 ---
-background-image: url(./images/bg_default_2021_eis.png)
+background-image: url(./images/bg_default_2021_white.png)
 background-size: contain
+class: middle
 
-# Stylometry with R: *observations*
+- an app for the OpenITI corpus (Release 2022.1.6):
+	- open, select a text (by its URI)
+	- get the analyses
 
-- since the orthorgraphy of the Classical Arabic (i.e., premodern texts) has not changed, we can expect these parameters to work with classical texts equally well (they do :);
+- the “genre” is suggested in terms of the strength of its signal;
 
-	- interesting question: Arabic of different periods... 
+- out of ±6,700 texts, about 1,000 texts do not display strong signals (value < 0.5) in any of the modelled “genre”;
 
-- suprisingly, character/letter ngrams did not work at all, while there were some expectations since Arabic is morphologically highly complex language;
-	- the “same” word may appear in up to 50 different forms due to attached conjunctions, prepositions, articles, pronominal suffixed — and their numerous combinations);
+	- *observation*: they belong to a “genre” that has not been modelled;
 
-- unigrams (single tokens) give best results, while unigrams and bigrams together, and as TFIDF values, appear to work best for “genre” identification.
+	- *observation*: additional *proxies* need to be considered for models;
 
-- distances: cosine-based and delta-based distances gave best results.
+- misclassification (?):
+
+	- *Kalīlaŧ wa-Dimnaŧ* by Ibn al-Muqaffaʾ (d. 139/757) :: `0142IbnMuqaffac.KalilaWaDimna`
+
+	- *Talbīs Iblīs* by Ibn al-Jawzī (d. 597/1201) :: `0597IbnJawzi.TalbisIblis`
 
 
 ---
-background-image: url(./images/bg_default_2022_eis.png)
+background-image: url(./images/bg_default_2021_white.png)
 background-size: contain
-class: center, middle
+class: middle
 
-# Now, to Till’s part ...
+<img src="./images/0142IbnMuqaffac.KalilaWaDimna_RADAR_D20220909T151101.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0597IbnJawzi.TalbisIblis_RADAR_D20220909T151448.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle, center
+
+## *examples of “correct” matching*
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0204Shafici.Umm_RADAR_D20220910T142614.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0179MalikIbnAnas.Muwatta_RADAR_D20220910T142631.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0241IbnHanbal.Musnad_RADAR_D20220910T142754.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0255Jahiz.KitmanSirr_RADAR_D20220910T142901.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0255Jahiz.ZaydiyyaWaRafida_RADAR_D20220910T142443.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0313IbnZakariyyaRazi.HawiFiTibb_RADAR_D20220910T142715.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0368Sirafi.SharhKitabSibawayh_RADAR_D20220910T142555.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0380Muhallabi.MasalikWaMamalik_RADAR_D20220910T142535.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0436SharifMurtada.Diwan_RADAR_D20220910T142736.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+exclude: true
+
+<img src="./images/0456IbnHazm.Rasail_RADAR_D20220910T142458.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0533IbnBajja.RasailFalsafiyya_RADAR_D20220910T142917.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0548Shahrastani.MafatihAsrar_RADAR_D20220910T142811.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0597IbnJawzi.GharibHadith_RADAR_D20220910T142425.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0597IbnJawzi.SaydKhatir_RADAR_D20220910T142835.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0606FakhrDinRazi.MacalimUsulDin_RADAR_D20220910T142932.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0626YaqutHamawi.MucjamUdaba_RADAR_D20220910T142255.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/0660IbnCadim.ZubdatHalab_RADAR_D20220910T142358.svg" alt="Drawing" style="width: 100%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/1206IbnCabdWahhab.MukhtasarSira_RADAR_D20220910T142656.svg" alt="Drawing" style="width: 100%;"/>
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+<img src="./images/1389AghaBuzurgTihrani.DharicaIlaTasanifShica_RADAR_D20220910T103456.svg" alt="Drawing" style="width: 100%;"/>
+
+
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+## “Genre” Classification: *Rolling Assessment*
+
+- an even more insightful approach is to assess each text section by section;
+
+- *xray*: we get curves of the genre signal across a selected text.
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: right, center
+
+### Rolling Assessment: *massive books*
+
+#### `0748Dhahabi.TarikhIslam` — “obituary chronicle”
+
+<img src="./images/0748Dhahabi.TarikhIslam_ROLLING_D20220910T164431.svg" alt="Drawing" style="width: 110%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: right, center
+exclude: true
+
+### Rolling Assessment: *massive books*
+
+#### `0748Dhahabi.TarikhIslam` — “obituary chronicle”
+
+<img src="./images/0748Dhahabi.TarikhIslam_ROLLING_D20220910T164431_zoomA.svg" alt="Drawing" style="width: 110%;"/>
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: right, center
+exclude: false
+
+### Rolling Assessment: *massive books*
+
+#### `0748Dhahabi.TarikhIslam` — “obituary chronicle”
+
+<img src="./images/TI_comp0.png" alt="Drawing" style="width: 110%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: right, center
+exclude: false
+
+### Rolling Assessment: *massive books*
+
+#### `0748Dhahabi.TarikhIslam` — “obituary chronicle”
+
+<img src="./images/TI_comp1.png" alt="Drawing" style="width: 110%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: right, center
+exclude: false
+
+### Rolling Assessment: *massive books*
+
+#### `0748Dhahabi.TarikhIslam` — “obituary chronicle”
+
+<img src="./images/TI_comp2.png" alt="Drawing" style="width: 110%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: right, center
+
+### Rolling Assessment: *massive books*
+
+#### `0733Nuwayri.NihayatArab` — “encyclopaedia”
+
+<img src="./images/0733Nuwayri.NihayatArab_ROLLING_D20220910T164943.svg" alt="Drawing" style="width: 110%;"/>
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: right, center
+
+### Rolling Assessment: *massive books*
+
+#### `0733Nuwayri.NihayatArab` — “encyclopaedia”
+
+<img src="./images/0733Nuwayri.NihayatArab_ROLLING_D20220910T164943_zoomA.svg" alt="Drawing" style="width: 110%;"/>
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle, left
+
+## Rolling Assessment: books of *tafsīr*
+
+- grammatical *tafsīr*s
+- “linguistic” *tafsīr*s
+- legal *tafsīr*s
+- “scholastic” *tafsīr*s
+- “Traditional” *tafsīr*s
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: left, middle
+
+### Rolling Assessment: books of *tafsīr*
+
+##### `0911Suyuti.DurrManthur` :: *tafsīr* + *fiqh*
+
+<img src="./images/0911Suyuti.DurrManthur_ROLLING_D20220910T163235.svg" alt="Drawing" style="width: 110%;"/>
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: left, middle
+
+### Rolling Assessment: books of *tafsīr*
+
+##### `0911Suyuti.TafsirJalalayn` :: *tafsīr* only
+
+<img src="./images/0911Suyuti.TafsirJalalayn_ROLLING_D20220911T201319.svg" alt="Drawing" style="width: 110%;"/>
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+exclude: true
+
+???
+
+- In fact, I need to check tafsirs listed at Altafsir.com
+	- saved into the presentation folder
+
+
+- Several Tafsirs > tafsir signal mixed with other signals
+
+	- !!! 0150MuqatilIbnSulayman.TafsirMuqatil :: many
+	- 0211CabdRazzaqSancani.Tafsir :: law, tradition
+	- 0215AkhfashAwsat.MacaniQuran :: grammar, rhetoric
+	- !!! 0310Tabari.JamicBayan :: sira
+	- 0243HarithMuhasibi.FahmQuran
+	- 0260ImamCaskari.Tafsir
+	- 0283SahlTustari.Tafsir
+	- !!! 0311IbnSariZajjaj.MacaniQuran :: balagha
+	- 0412Sulami.Tafsir
+	- 0324IbnMujahid.SabcaFiQiraat :: dictionaries
+	- 0320IbnMascudCayyashi.Tafsir :: hadith
+	- 0333AbuMansurMaturidi.Tafsir :: doxography, balagha, kalam, and law; and NO hadith
+	- 0338AbuJacfarNahhas.MacaniQuran :: dict, grammar
+	- 0360Tabarani.Tafsir :: doxography
+	- 0360Tabarani.TafsirKabir :: doxography
+	- 0370IbnCaliJassas.AhkamQuran :: kalam, fiqh
+	- 0373AbuLaythSamarqandi.BahrCulum :: doxo, kalam, geography
+	- 0384AbuHasanRummani.Jamic :: grammar, kalam, rhetoric, fiqh,
+	- 0399IbnAbiZamanaynIlbiri.Tafsir :: just tafsir
+	- 0403AbuBakrBaqillani.IcjazQuran :: rhetoric, fiqh
+	- 0403AbuBakrBaqillani.TamhidAwail :: KALAM
+	- 0403IbnZanjala.HujjatQiraat :: grammar
+	- 0406SharifRadi.HaqaiqTawil :: rhetoric, kalam, fiqh
+	- 0427AbuIshaqThaclabi.KashfWaBayan :: many
+	- 0429AbuMansurThacalibi.Jawahir :: kalam
+	- 0437IbnHammushQayruwani.Hidaya :: ???
+	- 0437MakkiIbnHammushQaysi.MushkilIcrabQuran :: grammar
+	- 0450AbuHasanMawardi.NukatWaCuyun ::
+	- 0458IbnSidaMursi.IcrabQuran :: grammar, rhetoric, dictionaries
+	- 0460ShaykhTusi.Tibyan :: kalam signal
+	- 0465IbnHawazinQushayri.LataifIsharat :: kalam, geo
+	- !!! 0468IbnAhmadWahidiNaysaburi.TafsirBasit :: many additional cats
+	- 0468IbnAhmadWahidiNaysaburi.WajizFiTafsir :: dox, rhet
+	- 0468IbnAhmadWahidiNaysaburi.WasitFiTafsir :: many
+	- 0470MuayyadFiDinShirazi.Majalis :: dox, geo
+	- !!! 0489IbnMuhammadSamcani.TafsirQuran :: dox, kalam, rhet
+	- !!! 0502RaghibIsbahani.Tafsir :: kalam, rhet
+	- 0505IbnHamzaTajQurraKirmani.GharaibTafsir :: dict
+	- !!! 0510IbnMascudBaghawi.Tafsir :: tarajim, dox, sira, etc.
+	- 0538JarAllahZamakhshari.Kashshaf :: fiqh, rhet
+	- 0541IbnCatiyyaAndalusi.MuharrarWajiz :: many
+	- !!! 0543IbnCarabiIshbili.AhkamQuran :: fiqh, kalam
+	- 0548Shahrastani.MafatihAsrar ???
+	- 0553BayanHaqqNaysaburi.IjazBayan
+	- 0561CabdQadirJilani.Tafsir :: many
+	- 0573IbnHibatAllahQutbDinRawandi.FiqhQuran :: fiqh
+	- 0597IbnFarasAndalusi.AhkamQuran :: kalam, law
+	- 0606RuzbihanBaqli.CaraisBayan ::dox, geo, kalam, rhet
+	- 0616MuhibbDinCukbari.Imla ?
+	- 0616MuhibbDinCukbari.TibyanFiIcrabQuran ?
+	- !!! 0638IbnCarabi.Tafsir :: dox, kalam, geo
+	- 0638IbnAhmadAndalusiHarali.TurathFiTafsir
+	- !!! 0660SultanCulamaCizzDinDimashqi.TafsirQuran :: fiqh
+	- !!! 0665AbuShama.IbrazMacani :: many
+	- !!! 0671AbuCabdAllahQurtubi.JamicLiAhkamQuran :: fiqh
+	- !!! 0685NasirDinBaydawi.AnwarTanzil :: kalam
+	- 0700AbuFadlCaliTabarsi.MishkatAnwar ?
+	- 0710IbnAhmadHafizDinNasafi.Tafsir : rhetoric
+	- 728IbnTaymiyya.DaqaiqTafsir :: dox, fiqh, kalam
+	- 0741KhazinBaghdadi.LubabTawil
+	- 0743SharafDinTibi.FutuhGhayb :: balagha, fiqh, kalam
+	- 0745AbuHayyanGharnati.TafsirBahrMuhit
+	- 0745AbuHayyanGharnati.TafsirNahrMadd
+	- 0751IbnQayyimJawziyya.TafsirQuran :: fiqh, 
+	- 0756IbnYusufSaminHalabi.DurrMasun
+	- 0774IbnKathir.FadailQuran
+	- 0774IbnKathir.TafsirQuran :: hadith, sira, geo
+	- 0794BadrDinZarkashi.BurhanFiCulumQuran :: many
+	- 0795IbnRajabHanbali.RawaicTafsir :: fiqh
+	- 0800IbnCadilHanbali.LubabFiCulumKitab :: many
+	- 0803IbnCarafaWarghami.Tafsir :: 
+	- 0817MajdDinFiruzabadi.TanwirMiqbas :: 
+	- 0905IbnCabdRahmanIjiShafici.Tafsir ::
+	- !!! 0911Suyuti.DurrManthur :: fiqh
+	- !!! 0911Suyuti.Itqan :: many
+	- !!! 0911Suyuti.TafsirJalalayn :: just tafsir
+	- ? 0982IbnMuhammadAbuSucud.IrshadCaqlSalim :: kalam
+	- !!! 1069ShihabDinKhafaji.HashiyaCalaTafsirBaydawi
+	- !!! 1085FakhrDinTurayhi.TafsirGharibQuran
+	- !!! 1224IbnCajiba.BahrMadid :: kalam
+	- 1250Shawkani.FathQadir :: law
+	- 1270ShihabDinAlusi.RuhMacani :: kalam, doxography, rhetoric
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+exclude: true
+
+- Large Scale
+
+	- OpenITI in terms of these genres
+	- OpenITI in terms of these genres, including *unidentified* (signal < 50%)
+	- altogether and over time
+	- by books, and by sections
+	- relative and absolute
+
+???
+- perhaps, keep this for the book; exclude from the presentation
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+### Concluding Part: the Future Value
+
+- *Hand-written Text Recognition* (HTR) is really catching up: it will allow us to extract texts from manuscripts with high accuracy;
+
+- We can use this ML approach to evaluate entire collections and libraries;
+
+	- Particularly valuable for:
+
+		- miscatalogued texts;
+
+		- complex texts like *majmūʿaŧ*s;
+
+- Particularly useful for authorship attribution (focus on MFF, works with “dirty” data)
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle
+
+### Concluding part: A Proof-of-Concept Example
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*, put together by some unknown individual
+
+<br><br><br>
+
+<img src="./images/majmuca_structure01.png" alt="Drawing" style="width: 800px;"/>
+
+<br><br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle, center
+
+
+### A *majmūʿaŧ*: genre model test
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: genre model test
+
+
+<img src="./images/majmuca_genres_0001.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure01.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: genre model test
+
+
+<img src="./images/majmuca_genres_0002.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure01.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: genre model test
+
+
+<img src="./images/majmuca_genres_0003.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure01.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: genre model test
+
+
+<img src="./images/majmuca_genres_0004.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure01.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: genre model test
+
+
+<img src="./images/majmuca_genres_0005.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure01.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: genre model test
+
+
+<img src="./images/majmuca_genres_0006.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure01.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: genre model test — *results*
+
+<br>
+<br>
+<br>
+
+<img src="./images/majmuca_structure02.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle, center
+
+
+### A *majmūʿaŧ*: authorship-attribution model test
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: authorship-attribution model test
+
+<br>
+
+<img src="./images/majmuca_authors_0001.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure02.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: authorship-attribution model test
+
+<br>
+
+<img src="./images/majmuca_authors_0002.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure02.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: authorship-attribution model test
+
+<br>
+
+<img src="./images/majmuca_authors_0003.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure02.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: authorship-attribution model test
+
+<br>
+
+<img src="./images/majmuca_authors_0004.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure02.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: authorship-attribution model test
+
+<br>
+
+<img src="./images/majmuca_authors_0005.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure02.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: authorship-attribution model test
+
+<br>
+
+<img src="./images/majmuca_authors_0006.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure02.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: authorship-attribution model test
+
+<br>
+
+<img src="./images/majmuca_authors_0007.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure02.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+
+
+### A *majmūʿaŧ*: authorship-attribution model test
+
+<br>
+
+<img src="./images/majmuca_authors_0008.png" alt="Drawing" style="width: 800px;"/>
+<img src="./images/majmuca_structure02.png" alt="Drawing" style="width: 800px;"/>
+
+<br>
+
+- the dotted lines indicate different content in the *majmūʿaŧ*
+
+
+---
+background-image: url(./images/bg_default_2021_white.png)
+background-size: contain
+class: middle, center
+
+# The End, *for now...*

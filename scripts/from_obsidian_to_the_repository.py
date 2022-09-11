@@ -29,10 +29,10 @@ for f in files:
         presentation = f.split(".")[0]
         print(presentation)
 
-        if not os.path.exists(presentation):
-            os.makedirs(presentation)
-        if not os.path.exists(presentation + "/images/"):
-            os.makedirs(presentation + "/images/")
+        if not os.path.exists(targetFolder + presentation):
+            os.makedirs(targetFolder + presentation)
+        if not os.path.exists(targetFolder + presentation + "/images/"):
+            os.makedirs(targetFolder + presentation + "/images/")
 
         with open(pathToPresentations + f, "r", encoding="utf8") as f1:
             data = f1.read().replace(presentation, "index")

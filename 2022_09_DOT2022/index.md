@@ -1142,4 +1142,4 @@ background-image: url(./images/bg_default_2021_white.png)
 background-size: contain
 class: middle, center
 
-# The End, *for now...*
+# That’s all, *for now...*

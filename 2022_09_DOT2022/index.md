@@ -99,7 +99,7 @@ class: middle
 
 	- to facilitate the transition to the Digital Stage:
 
-	- all three domains are organically interconnected producing “Networks of Knowledge” allowing for new ways of engaging with information;
+	- all three domains must be organically interconnected allowing for “Networks of Knowledge” which will open up new ways of engaging with our information;
 
 
 ---
@@ -119,9 +119,9 @@ class: middle
 
 - “The Mountain of Research”: already in 1945, Vannevar Bush (an American engineer, inventor and science administrator)
 
-	- he tought of a machine, *Memex*, that would suggests connections.
+	- he tought of a machine, *Memex*, that would suggests connections among pieces of research;
 
-		- *Internet* is said to be what became of this idea.
+		- *Internet* is commonly said to be what has become of this idea.
 
 	- Now, we can use methods that suggest connections: this is what I refered to as “similarity-based research”
 
@@ -195,9 +195,9 @@ class: top
 
 - the exact idea of “similarity” is determined:
 
-	- by research questions (i.e., what we model);
+	- by research questions: i.e., *what we model*;
 
-	- by methods (i.e., how we model)
+	- by methods, i.e., *how we model*.
 
 ---
 background-image: url(./images/bg_default_2021_white.png)
@@ -206,16 +206,21 @@ class: top
 
 ### Similarity-Based Research
 
-- methods determine what is selected as *proxies* (or *features*, or *abstractions*):
+- methods determine what is selected as *proxies* .red.bold[]:
 
-	- in text text analysis, most common proxies are *ngrams* (or *tokens*, or *words*); or, more precisely, their frequencies;
+	- in text text analysis, most common proxies are *ngrams* .red.bold[]; or, more precisely, their frequencies;
 
 		- authorship attribution (stylometry) relies on *most frequent* ngrams > a document, or, better, an author, can be represented as a curve of these MFT: every text written by the same individual will have a very similar the same curve;
 		
 		- text classification (topic modeling) relies on *networks of co-occurences* of ngrams > a *topic* can be represented as a curve of relative frequencies of co-occurences specific ngrams;
 		
 		- keyword extraction (TFIDF) relies on tfidf-frequencies to extract most important ngrams for any text.
-
+		
+	
+.footnote[
+.red.bold[] Alternatively called _features_ or *abstractions*.<br>
+.red.bold[] Alternatively called *token*s or *word*s.
+]
 
 ---
 background-image: url(./images/bg_default_2021_white.png)
@@ -243,13 +248,13 @@ class: middle
 
 ### TFIDF: *Term Frequency - Inverse Document Frequency*
 
-- *keywords*: words that are relatively frequent in a given text (term frequency) and relatively infrequent across a given corpus (inverse document frequency), for example:
+- *keywords* are ngrams that are relatively frequent in a given text (*term frequency*) and relatively infrequent across a given corpus (*inverse document frequency*), for example:
 
 	- في is extremely frequent and occurs in every Arabic text:
 		- TF = extremely high; IDF = low; TFIDF = *LOW*
 
-	- توفي is relatively frequent, but does not occurs every Arabic text:
-		- TF = moderate; IDF = high; TFIDF = *HIGH*
+	- توفي is infrequent, but does occur in Arabic text of a particluar kind:
+		- TF = low; IDF = high; TFIDF = *HIGH*
 
 
 ---
@@ -257,9 +262,9 @@ background-image: url(./images/bg_default_2021_white.png)
 background-size: contain
 class: middle
 
-#### TFIDF: *Taʾrīḫ al-islām* of al-Ḏahabī (d. 748/1348 CE) and its *familiars*
+#### TFIDF: *Šaḏarāt al-ḏahab* of Ibn al-ʿImād (d. 1089/1679 CE) and its *familiars*
 
-<img src="./images/tarikhIslam_familiars_B.png" alt="Drawing" style="width: 100%;"/>
+<img src="./images/Shadharat_familiars_A.png" alt="Drawing" style="width: 100%;"/>
 
 
 ---
@@ -268,13 +273,15 @@ background-size: contain
 class: middle
 
 
-* **NOTE:** for EIS1600, I needed to make sure that I am using all the relevant texts from the corpus (i.e., all chronicles and biographical collections, or texts that might not be as squarely identifiable as such, but in fact contain lost of relevant information.
+* **NOTE:** for EIS1600, I needed to make sure that I am using all the relevant texts from the corpus — i.e., all chronicles and biographical collections, or texts that might not be as squarely identifiable as such, but in fact contain lots of relevant information.
 
 - ***issues* with TFIDF**:
 	- does not always work perfectly for this purpose, since we only use “vocabulary” as our *proxy*;
+
 	- allows us to find “familiars” / “comparables” of specific texts, but does not necessarily grasps more complex categories like “genre”;
 	- costly in terms of computational resources (“do not try this at home”);
-		- a huge thank-you to Prof Savant for letting me use the KITAB Server with its 48 cores, 128Gb of RAM, and practically unlimited storage space; it still takes days to run this kind of analyses;
+
+		- a huge thank-you to Prof Savant for letting me use the KITAB Server with its 48 cores, 128Gb of RAM, and practically unlimited storage space; it still may take days to run this kind of analysis (mainly postprocessing);
 
 ---
 background-image: url(./images/bg_default_2021_white.png)
@@ -283,9 +290,9 @@ class: middle
 
 ### TFIDF + Machine Learning
 
-- ML allows us to train a model (a measuring stick) that can be used to assess individual texts in a more abstract way, and more efficiently — in technical terms (a research server still helps);
+- ML allows us to train models (*measuring sticks*) that can be used to assess individual texts in a more abstract way, and more efficiently — in technical terms (a research server still helps);
 
-- we can feed to the ML model examples of texts that we consider to belong to the same category, i.e. representing a cpecific genre (for genre classification, TFIDF), or a specific author (for authorship attribution, MFF);
+- we can feed to the ML model examples of texts that we consider to belong to the same category, i.e. representing a specific genre (for genre classification, TFIDF), or a specific author (for authorship attribution, MFF);
 
 - ML libraries (like, `skitlearn` for Python) offer all the necessary “machinery” to train a variety of models and automatically test their accuracy; (Note: not *deep learning*, but “classical machine learning”.)
 
@@ -326,8 +333,8 @@ class: middle
 		- train all available models with changing sets of parameters;
 		- results will let you know which ones perform best;
 
-	- Dozens of test later, experimentally:
-		- SGD, 30,000 ngrams (both *unigram*s and *bigram*s), TFIDF values
+	- Dozens of tests later:
+		- SGD with 30,000 ngrams (both *unigram*s and *bigram*s), based on TFIDF values
 		- The model learned to recognize samples supplied in training data (25% is withheld as test data) with accuracy nearing the perfect 100%
 
 
@@ -352,11 +359,11 @@ class: middle
 	
 - this is both very difficult and very easy:
 
-	- *the difficult part*: if there is anything we know for sure, it is that we often disagree on such questions;
+	- *the difficult part*: if there is anything we know for sure, it is that we never agree on such questions;
 	
-	- *the easy part*: we do not have to argue, as we can model as many different categories as we may need;
+	- *the easy part*: we do not have to argue, as we can model as many different categories as we may need, experimentally finding which work better;
 	
-	- *the advantage*: this approach will allow us to test our assumptions about genres;
+	- *the advantage*: this approach allows us to test our assumptions about genres;
 
 ---
 background-image: url(./images/bg_default_2021_white.png)
@@ -393,12 +400,12 @@ class: middle
 
 - chronicles (*tawāriḫ*):
 
-	- 0421Miskawayh.Tajarib, 0488ZahirDin.DhaylTajaribUmam, 0630IbnAthirCizzDin.Kamil, 0748Dhahabi.CibarFiKhabar, 1237Jabarti.CajaibAthar
+	- `0421Miskawayh.Tajarib`, `0488ZahirDin.DhaylTajaribUmam`, `0630IbnAthirCizzDin.Kamil`, `0748Dhahabi.CibarFiKhabar`, `1237Jabarti.CajaibAthar`
 
 
 - biographical collections (*tarājim*):
 
-	- 0578IbnBashkuwal.Sila, 0630IbnAthirCizzDin.UsdGhaba, 0637IbnDubaythi.DhaylTarikhBaghdad, 0642IbnNajjar.DhaylTarikhBaghdad, 0681IbnKhallikan.WafayatAcyan, 0764Safadi.WafiBiWafayat, 0771TajDinSubki.TabaqatShaficiyyaKubra, 0795IbnRajabHanbali.DhaylTabaqatHanabila
+	- `0578IbnBashkuwal.Sila`, `0630IbnAthirCizzDin.UsdGhaba`, `0637IbnDubaythi.DhaylTarikhBaghdad`, `0642IbnNajjar.DhaylTarikhBaghdad`, `0681IbnKhallikan.WafayatAcyan`, `0764Safadi.WafiBiWafayat`, `0771TajDinSubki.TabaqatShaficiyyaKubra`, `0795IbnRajabHanbali.DhaylTabaqatHanabila`
 
 ---
 background-image: url(./images/bg_default_2021_white.png)
@@ -579,8 +586,6 @@ background-size: contain
 class: middle
 
 <img src="./images/1389AghaBuzurgTihrani.DharicaIlaTasanifShica_RADAR_D20220910T103456.svg" alt="Drawing" style="width: 100%;"/>
-
-
 
 
 ---
@@ -836,7 +841,7 @@ class: middle
 
 ### Concluding Part: the Future Value
 
-- *Hand-written Text Recognition* (HTR) is really catching up: it will allow us to extract texts from manuscripts with high accuracy;
+- *Hand-Written Text Recognition* (HTR) is catching up quickly: it will allow us to extract texts from manuscripts with high accuracy;
 
 - We can use this ML approach to evaluate entire collections and libraries;
 

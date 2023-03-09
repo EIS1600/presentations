@@ -21,9 +21,9 @@
 }
 *//
 
-body { font-family: 'Baskerville', 'Libre Baskerville', 'Droid Serif'; }
+body { font-family: 'Libre Baskerville', 'Baskerville', 'Droid Serif'; }
 h1, h2, h3 {
-  font-family: 'Baskerville', 'Libre Baskerville', 'Yanone Kaffeesatz';
+  font-family: 'Libre Baskerville', 'Baskerville', 'Yanone Kaffeesatz';
   font-weight: 400;
 }
 

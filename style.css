@@ -1,7 +1,9 @@
 
+
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic);
 
 
 //* 
@@ -19,9 +21,9 @@
 }
 *//
 
-body { font-family: 'Baskerville', 'Droid Serif'; }
+body { font-family: 'Baskerville', 'Libre Baskerville', 'Droid Serif'; }
 h1, h2, h3 {
-  font-family: 'Baskerville', 'Yanone Kaffeesatz';
+  font-family: 'Baskerville', 'Libre Baskerville', 'Yanone Kaffeesatz';
   font-weight: 400;
 }
 
